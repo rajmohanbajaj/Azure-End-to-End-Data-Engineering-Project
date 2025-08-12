@@ -7,6 +7,7 @@ It follows the **Medallion Architecture (Bronze → Silver → Gold)** for struc
 
 The project ingests raw CSV data from Azure Data Lake (Bronze), transforms it with PySpark in Azure Databricks (Silver), and loads it into Azure Synapse Analytics (Gold) for Power BI reporting.
 
+Data Set: https://www.kaggle.com/datasets/ukveteran/adventure-works
 ---
 
 ## 🏗 Architecture
